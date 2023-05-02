@@ -1,0 +1,14 @@
+.env
+mongodb
+__pycache__
+youtube_test_v5.ipynb
+youtube_test_v6.ipynb
+youtube_test_v4.ipynb
+youtube_test_v3.ipynb
+youtube_test_v2.ipynb
+youtube_test.ipynb
+pgdata
+cache-master
+cache-worker-1
+cache-worker-2
+spheric-temple-380502-a6d7bc71c040

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spheric-temple-380502",
+  "private_key_id": "a6d7bc71c040a060de864e058cd2de8e9d978a59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDfBk+Z7FLxzxMV\n4jB3gqE9D7aeC9lvO1KGcQ8SBcIyLF06C0VTTdIv3SRRQABZf7yr1CIMZumn/IVd\n2dYNYA0eJG5VeDek0u6tBAGIXVRrOY6vVM9BMQjWbYJ4Fe9EFZsknFkTNHT30fQp\nlKlufEkuOfa2smis9HA0ZHUv1Bk1xzDU5OV/sEmLFUXh+0qlxDK5TY4PrnXuw9bj\nVhy3AkkZnOqUSrVG6kXU53voftgXwenE2ZmJA1GEGoFOyrk7zZQlfuL0WawPLI6G\nzPkbJwgkITLQnMLR87FaMW2UpfQomd9NnviIQ2GsF2lnRIPZCbHoHMmoqasW2h8o\ntPIeyWk7AgMBAAECggEAA1UoOwmzRX60Slvlz+5Q5H6JdV90sW9K0OCkXFMpmVtI\nrBZfWCT2c3dIByzlL2O3Gri+hRXe6wXCMecXJ+oCoW8mqu0Hbv3h0IeFsKgfvYAg\noTurrPYvaDOc7s5YDR1MEJBARmVZslDals82d+MVWiDn7Lo8m/v38eWIS2RNgdI+\nO3MF7vIq4fYUCdRWk6DISCGE0m/4CDYEe8o8YrXNpurB0Q1cocRBUTMgWvmRDTOR\nf+s+6yNQoKQMPyuJuVyoAnqu0Mlk/Uq6r2LJmShNye5Sc028rTegX2v7Ad8GixCj\n8m+s88laPL83jBg+HA6bxoBzGl80OWqVMN7VOonKiQKBgQD8T09xT7r7dJgxMWLk\njC5A3oiGz0Q2vMhlwPArvTQRwTPi3Uw6JY4FcBCfNf6bQleBEnWzibqHF3XkYqy8\nvWGx82h2RdVkKYm+IqrQnS92WeXqh1ozJ5FizLjAAVt0aefCk/UDROslgGC5eiuU\nVsQHO2grG3/E8IZPphP6FkDm3QKBgQDiSVom6k0gpuRLn4ht7Gfyae9qg+Ka8X99\ntGfLR0w3S2zzu45yjYejDzAv3fTG50bk/EUUxXPOKhi8DiuJ0T44FKEEWpdoh/Js\n44kE4uVQBOU1EUGTZGmtqiXISpj20BDSKbaqWjM0kF/IK1b1nytdCRMhwW8AlRAj\n2pC8WWmy9wKBgQDPapOwXw8j8HG83xChOew8P7SUvochSIilvbqy+lN31RBGjA5C\nLuVV6w5/E/A+yocNAJPqCGti6xJrsgK3FijeFW/m6vnF4a/usqkh3lZKQRUVfDfW\nncyTICExFuyMAxQXjXJ6QYndxm+9ioWQ6NM17sxvw6eBywlfKPR7PxgTsQKBgQCK\nPlHrUF0KQ6tZX/9TWIgwmvN/WU9JZZyDyYFXuRkg9t17Eex2o2xn+9FujOUL1yOC\npXP2uqKDI0i1KtsCeWjPjhrItCen3tYGHAQLjiqV9kepYf9z8nZ1eGtYr+o/buG3\n43ALJsv9ou5BNekMac9uKSsdBjWwX2Da5p5h0yY2BQKBgQCSLR7xa6W+q6pPPbMS\nsXHtjFOEqiTNVl1yYiDRk0pHpLwP2ar0afAKX3g8OOq6XGvre421dzX/9hKucdoP\nCi8uTS+xiR4qFC0YtSvEKLvvnVHDvMo9bZpPlfiyNK1IWHXHKi7sLEp52jHOVTcX\nGlZ5NRm9RtA8MahbVINEK+es1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "youtube-reporting-api@spheric-temple-380502.iam.gserviceaccount.com",
+  "client_id": "103459759221146692566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youtube-reporting-api%40spheric-temple-380502.iam.gserviceaccount.com"
+}
